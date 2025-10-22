@@ -1,0 +1,10 @@
+requests
+langchain-community
+langchain
+google-generativeai
+streamlit
+python-dotenv
+qdrant-client
+cohere
+PyMuPDF
+sentence_transformers
