@@ -1,9 +1,0 @@
-streamlit
-pandas
-requests
-python-dotenv
-sentence-transformers
-qdrant-client
-cohere
-google-generativeai
-langchain
